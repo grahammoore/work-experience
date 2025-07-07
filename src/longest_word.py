@@ -8,4 +8,4 @@ class LongestWord:
         return self.sentence
 
     def length_of_longest_word(self):
-        return len(self.sentence)
+        return len(self.longest_word())
