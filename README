@@ -1,0 +1,6 @@
+
+
+
+python3 -m unittest -v tests.reverse_tests
+python3 -m unittest -v tests.palindrome_tests
+python3 -m unittest -v tests.longest_word_tests
