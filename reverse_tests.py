@@ -1,6 +1,6 @@
 import unittest
 
-from src.reverse import Reverse
+from reverse import Reverse
 
 class ReverseTests(unittest.TestCase):
 

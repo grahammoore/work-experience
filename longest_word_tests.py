@@ -1,6 +1,6 @@
 import unittest
 
-from src.longest_word import LongestWord
+from longest_word import LongestWord
 
 class LongestWordTests(unittest.TestCase):
 
